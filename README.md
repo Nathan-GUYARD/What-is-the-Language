@@ -5,8 +5,10 @@ Pour lancer le programme il faut avoir Python et les librairies **pygame** et **
 
 ### **Contexte**
 
-J'ai réalisé ce projet en NSI en début d'année 2023, pour ce projet il n'y avait pas de contraite il fallait juste utiliser des notions vu cette année.
+J'ai réalisé ce projet en NSI en début d'année 2023, pour ce projet il fallait utiliser des arbres binaires de recherche.
 
-J'ai décider faire un jeu vidéo où il faut sortir d'un labyrinthe avec des lasers qu'on peut activer et désactiver. Pour crée les niveaux j'ai utiliser le logiciel Tiled qui à déjà une librairie en python qui permet de les implémenter facilement. 
+J'ai décider de rechercher des mots dans un dictionnaire, et ce très rapidement. Le but du jeu est de trouver dans quel langue est le mots afficher, une fois choisi le programme cherche le mot dans le dictionnaire de la langue associé.
 
-J'ai denouveau réussi à avoir un code bien organiser et propre en cherchant à optimiser certain détails et j'ai utiliser une beaucoup d'élément de pygame que je ne connaisais pas.
+Bien avant de réaliser en python le projet j'ai crée la structure de mon code et tout en pouvant réutiliser le coeur du jeu avec une interface graphique différente (dans mes premier test j'avais fais le jeu en console).
+
+J'ai réussi à avoir un code mieux organiser plus propre et plus facilement réutilisable.
